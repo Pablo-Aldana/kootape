@@ -1,2 +1,2 @@
 # kootape
-Kootape gatsby headless project
+Kootape gatsby headless project.
