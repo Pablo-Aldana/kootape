@@ -1,17 +1,16 @@
 import React from 'react'
-
+import logo from '../assets/images/minion.png'
 class Header extends React.Component {
     render() {
         return (
             <section id="header">
                 <div className="inner">
-                    <span className="icon major fa-cloud"></span>
-                    <h1>Hi, I'm <strong>Photon</strong>, another fine<br />
-                    little freebie from <a href="http://html5up.net">HTML5 UP</a>.</h1>
-                    <p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
-                    lobortis feugiat sapien sed etiam volutpat accumsan.</p>
+                    <span className="icon major"><img src={logo} alt="Kootape" /></span>
+                    <h1> <strong>Kootape</strong> <br />Expertos Kinesiología deportiva<br /></h1>
+                    <p>Cintas de Kinesiología de alta calidad<br />
+                    </p>
                     <ul className="actions">
-                        <li><a href="#one" className="button scrolly">Discover</a></li>
+                        <li><a href="#one" className="button scrolly">Descubre m&aacute;s</a></li>
                     </ul>
                 </div>
             </section>

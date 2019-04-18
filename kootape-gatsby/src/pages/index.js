@@ -23,7 +23,7 @@ class Homepage extends React.Component {
                                 <h2>Kootape<br />
                                 Expertos Kinesiología deportiva</h2>
                             </header>
-                            <p>Hi Nik Proveemos alta tecnología en kinesionlAdipiscing a commodo ante nunc accumsan et interdum mi ante adipiscing. A nunc lobortis non nisl amet vis sed volutpat aclacus nascetur ac non. Lorem curae et ante amet sapien sed tempus adipiscing id accumsan.</p>
+                            <p> 100% Algodón las cintas de Kinesiología Kootape están fabricadas con los mejores materiales y certificadas por profesionales internacionales.  </p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic01} alt="" /></span>
@@ -66,26 +66,26 @@ class Homepage extends React.Component {
 
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
-                            <h3>Magna feugiat lorem</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <h3>Iniciado</h3>
+                            <p>Descubre nuestro pack individual.</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="#" className="button">Comprar</a></li>
                             </ul>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic03} alt="" /></span>
-                            <h3>Magna feugiat lorem</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <h3>Aprendiz</h3>
+                            <p>Pack de seis rollos</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="#" className="button">Comprar</a></li>
                             </ul>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic04} alt="" /></span>
-                            <h3>Magna feugiat lorem</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <h3>Profesional</h3>
+                            <p>Pack de doce rollos donde podrás desarrollar todo tu potencial</p>
                             <ul className="actions">
-                                <li><a href="#" className="button">More</a></li>
+                                <li><a href="#" className="button">Comprar</a></li>
                             </ul>
                         </div>
 
@@ -95,12 +95,12 @@ class Homepage extends React.Component {
                 <section id="four" className="main style2 special">
                     <div className="container">
                         <header className="major">
-                            <h2>Ipsum feugiat consequat?</h2>
+                            <h2>¿Quieres saber más?</h2>
                         </header>
-                        <p>Sed lacus nascetur ac ante amet sapien.</p>
+                        <p>Contactanos.</p>
                         <ul className="actions uniform">
                             <li><a href="#" className="button special">Sign Up</a></li>
-                            <li><a href="#" className="button">Learn More</a></li>
+                            <li><a href="#" className="button">Login</a></li>
                         </ul>
                     </div>
                 </section>
