@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Kootape",
     author: "Pablo Aldana",
-    description: "Expertos en Kinesionología deportiva"
+    description: "Kootape - Expertos en Kinesionología deportiva"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
