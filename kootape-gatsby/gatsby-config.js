@@ -9,6 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options:
+      {
         name: 'Kootape - Expertos en Kinesionología deportiva',
         short_name: 'Kootape',
         start_url: '/',
