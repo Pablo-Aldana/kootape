@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/images/kootapelogo.png'
+import logo from '../assets/images/kootapelogowhite.png'
 class Header extends React.Component {
     render() {
         return (
