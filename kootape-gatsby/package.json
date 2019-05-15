@@ -1,8 +1,8 @@
 {
-  "name": "K8tape",
+  "name": "Kootape",
   "description": "La revolución de la salud en Fitness",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Pablo Aldana",
   "dependencies": {
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-photon"
+    "url": "https://github.com/Pablo-Aldana/kootape"
   }
 }

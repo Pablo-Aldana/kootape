@@ -1,12 +1,12 @@
 import React from 'react'
-import logo from '../assets/images/minion.png'
+import logo from '../assets/images/kootapelogo.png'
 class Header extends React.Component {
     render() {
         return (
             <section id="header">
                 <div className="inner">
                     <span className="icon major"><img src={logo} alt="Kootape" /></span>
-                    <h1> <strong>Kootape</strong> <br />Expertos Kinesiología deportiva<br /></h1>
+                    <h1>Expertos Kinesiología deportiva<br /></h1>
                     <p>Cintas de Kinesiología de alta calidad<br />
                     </p>
                     <ul className="actions">
