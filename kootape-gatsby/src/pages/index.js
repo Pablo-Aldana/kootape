@@ -23,7 +23,7 @@ class Homepage extends React.Component {
                                 <h2>Kootape<br />
                                 Expertos Kinesiología deportiva</h2>
                             </header>
-                            <p> Hecho de materias primas de alta calidad cuidadosamente escogidas, certificadas por profesionales internacionales, las cintas Kinesiología Kootape proporcionan una eficacia y soporte excepcionales, así como una gran durabilidad. El adhesivo acrílico hipoalergénico y la tela de algodón de alta calidad lo hacen resistente al agua, transpirable y cómodo de llevar.</p>
+                            <p>Fabricado con materias primas de alta calidad cuidadosamente escogidas, certificadas por profesionales internacionales, las cintas Kinesiología Kootape proporcionan una eficacia y soporte excepcionales, así como una gran durabilidad. El adhesivo acrílico hipoalergénico y la tela de algodón de alta calidad lo hacen resistente al agua, transpirable y cómodo de llevar.</p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic01} alt="" /></span>
@@ -49,8 +49,8 @@ class Homepage extends React.Component {
                                 </h2>
                             </header>
                             <p>Estan diseñadas para todo tipo de personas, jóvenes y mayores, profesionales y amateu, embarazadas, deportistas, literalmente, ¡toda persona con vida activa!</p>
-                            <p>Kootape es idónea para el alivio del dolor y el soporte de los músculos, ligamentos y tendones. Diseñada </p>
-                            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+                            <p>Kootape es idónea para el alivio del dolor y el soporte de los músculos, ligamentos y tendones. Ayuda al tratamiento de lesiones ocupacionales, post cirugías, lesiones deportivas e incluso durante el embarazo. </p>
+                            <p>Hipoalergénica, con un fuerte termo adhesivo y resistentes al agua, las cintas de kinesiología Kootape, proveen la confianza absoluta para completar tus actividades diarias o practicar tus deportes favoritos, desde disfrutar en la arena de la playa, como practicar natación. Resisten la humedad y sudor sin tener que preocuparte por periodos de hasta 7 días.  </p>
                         </div>
                     </div>
                 </section>
