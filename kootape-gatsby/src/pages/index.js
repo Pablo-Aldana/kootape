@@ -23,7 +23,7 @@ class Homepage extends React.Component {
                                 <h2>Kootape<br />
                                 Expertos Kinesiología deportiva</h2>
                             </header>
-                            <p> 100% Algodón las cintas de Kinesiología Kootape están fabricadas con los mejores materiales y certificadas por profesionales internacionales.  </p>
+                            <p> Hecho de materias primas de alta calidad cuidadosamente escogidas, certificadas por profesionales internacionales, las cintas Kinesiología Kootape proporcionan una eficacia y soporte excepcionales, así como una gran durabilidad. El adhesivo acrílico hipoalergénico y la tela de algodón de alta calidad lo hacen resistente al agua, transpirable y cómodo de llevar.</p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic01} alt="" /></span>
@@ -45,11 +45,11 @@ class Homepage extends React.Component {
                         </div>
                         <div className="col-6">
                             <header className="major">
-                                <h2>Lorem ipsum dolor adipiscing<br />
-                                amet dolor consequat</h2>
+                                <h2>Las cintas de Kinesiología Kootape<br />
+                                </h2>
                             </header>
-                            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
-                            <p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non praesent vis commodo nunc phasellus cubilia ac risus accumsan. Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper morbi col faucibus vitae integer placerat accumsan orci eu mi odio tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam dolore.</p>
+                            <p>Estan diseñadas para todo tipo de personas, jóvenes y mayores, profesionales y amateu, embarazadas, deportistas, literalmente, ¡toda persona con vida activa!</p>
+                            <p>Kootape es idónea para el alivio del dolor y el soporte de los músculos, ligamentos y tendones. Diseñada </p>
                             <p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
                         </div>
                     </div>
